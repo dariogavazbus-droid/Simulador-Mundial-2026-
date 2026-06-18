@@ -5,3 +5,4 @@ beautifulsoup4
 numpy
 lxml
 joblib
+scikit-learn
